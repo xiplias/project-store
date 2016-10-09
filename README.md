@@ -1,5 +1,8 @@
 # ProjectStore
 
+![alt text](https://github.com/xiplias/project-store/blob/master/images/list.png "Project Listing")
+![alt text](https://github.com/xiplias/project-store/blob/master/images/project.png "Project page")
+
 > An electron-vue project
 
 ## Build Setup
