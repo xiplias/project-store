@@ -1,0 +1,19 @@
+{
+  "name": "project-store",
+  "version": "0.0.0",
+  "description": "Simple tool for storing project ideas",
+  "main": "electron.js",
+  "dependencies": {
+    "autosize": "^3.0.17",
+    "moment": "^2.15.1",
+    "nedb": "^1.8.0",
+    "node-uuid": "^1.4.7",
+    "vue": "^2.0.1",
+    "vue-electron": "^1.0.0",
+    "vue-resource": "^1.0.3",
+    "vue-router": "^2.0.0",
+    "vuex": "^2.0.0"
+  },
+  "devDependencies": {},
+  "author": "Anders Hansen <xiplias>"
+}
